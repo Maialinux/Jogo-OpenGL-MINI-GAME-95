@@ -17,11 +17,11 @@ Como IDE utilizei o CodeBlocks.
 <br><br><br>
 ## Jogo Mini Game 95 
 
-<p align="center"><img src="imagens/1.png" width="897px" height="667px"></p>
+<p align="center"><img src="Imagens/1.png" width="897px" height="667px"></p>
 <br>
-<p align="center"><img src="imagens/2.png" width="897px" height="667px"></p>
+<p align="center"><img src="Imagens/2.png" width="897px" height="667px"></p>
 <br>
-<p align="center"><img src="imagens/3.png" width="897px" height="667px"></p>
+<p align="center"><img src="Imagens/3.png" width="897px" height="667px"></p>
 
 <br><br><br>
 
